@@ -25,7 +25,7 @@ Project ini menjawab beberapa pertanyaan utama:
 
 ## 📊 Data Overview
 
-[Dataset](retail sales dataset.xlsx)
+- [Dataset](retail sales dataset.xlsx)
 
 Proses data meliputi:
 - Data cleaning
