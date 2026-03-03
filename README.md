@@ -40,23 +40,23 @@ Langkah analisis dilakukan secara sistematis dengan menjawab setiap Business Que
 
 ## 💡 Key Insights
 
--Tidak ada ketergantungan pada satu region, sehingga risiko geografis relatif rendah.
--Total pendapatan kategori terutama didorong oleh jumlah produk, bukan performa satu produk.
--Diskon tidak memberikan dampak signifikan ke jumlah transaksi.
--Diversifikasi pendapatan yang seimbang antar segmen menunjukkan struktur pelanggan yang stabil.
--Tidak terdapat indikasi ketergantungan berlebihan pada transaksi bernilai besar; risiko pendapatan relatif terkendali.
--Pola penggunaan metode pembayaran konsisten di seluruh segmen pelanggan.
+- Tidak ada ketergantungan pada satu region, sehingga risiko geografis relatif rendah.
+- Total pendapatan kategori terutama didorong oleh jumlah produk, bukan performa satu produk.
+- Diskon tidak memberikan dampak signifikan ke jumlah transaksi.
+- Diversifikasi pendapatan yang seimbang antar segmen menunjukkan struktur pelanggan yang stabil.
+- Tidak terdapat indikasi ketergantungan berlebihan pada transaksi bernilai besar; risiko pendapatan relatif terkendali.
+- Pola penggunaan metode pembayaran konsisten di seluruh segmen pelanggan.
 
 ## 🚀 Business Impact
 
 🚀 Business Impact
 
--Diversifikasi regional yang sehat menurunkan risiko geografis dan meningkatkan resiliensi bisnis.
--Revenue didorong oleh banyak produk, sehingga strategi pertumbuhan lebih efektif melalui ekspansi katalog.
--Diskon tidak berdampak signifikan terhadap volume, sehingga strategi pricing perlu dievaluasi agar margin tetap optimal.
--Struktur pelanggan yang seimbang menciptakan pendapatan yang stabil dan tidak bergantung pada satu segmen.
--Tidak adanya ketergantungan pada transaksi besar membuat cash flow lebih stabil dan risiko revenue shock rendah.
--Metode pembayaran tidak memengaruhi nilai transaksi, sehingga fokus dapat diarahkan pada efisiensi biaya transaksi.
+- Diversifikasi regional yang sehat menurunkan risiko geografis dan meningkatkan resiliensi bisnis.
+- Revenue didorong oleh banyak produk, sehingga strategi pertumbuhan lebih efektif melalui ekspansi katalog.
+- Diskon tidak berdampak signifikan terhadap volume, sehingga strategi pricing perlu dievaluasi agar margin tetap optimal.
+- Struktur pelanggan yang seimbang menciptakan pendapatan yang stabil dan tidak bergantung pada satu segmen.
+- Tidak adanya ketergantungan pada transaksi besar membuat cash flow lebih stabil dan risiko revenue shock rendah.
+- Metode pembayaran tidak memengaruhi nilai transaksi, sehingga fokus dapat diarahkan pada efisiensi biaya transaksi.
 
 ## 🛠 Tools & Technologies
 - Microsoft Excel
