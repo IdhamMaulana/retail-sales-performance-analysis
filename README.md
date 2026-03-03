@@ -49,8 +49,6 @@ Langkah analisis dilakukan secara sistematis dengan menjawab setiap Business Que
 
 ## 🚀 Business Impact
 
-🚀 Business Impact
-
 - Diversifikasi regional yang sehat menurunkan risiko geografis dan meningkatkan resiliensi bisnis.
 - Revenue didorong oleh banyak produk, sehingga strategi pertumbuhan lebih efektif melalui ekspansi katalog.
 - Diskon tidak berdampak signifikan terhadap volume, sehingga strategi pricing perlu dievaluasi agar margin tetap optimal.
