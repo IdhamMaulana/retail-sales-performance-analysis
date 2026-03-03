@@ -28,6 +28,7 @@ Project ini menjawab beberapa pertanyaan utama:
 - [Dataset](retail_sales_dataset.xlsx)
 
 Proses data meliputi:
+- Data Understanding
 - Data cleaning
 - Validasi inkonsistensi data
 - Agregasi per kategori dan segmen
@@ -35,27 +36,27 @@ Proses data meliputi:
 
 ## 🔎 Pendekatan Analisis
 
-Langkah analisis dilakukan secara sistematis:
-
-- Exploratory Data Analysis (EDA) untuk memahami pola distribusi data
-- Perhitungan KPI utama (Total Revenue, Quantity, Contribution Rate)
-- Analisis perbandingan antar kategori & segmen
-- Analisis tren penjualan bulanan
-
+Langkah analisis dilakukan secara sistematis dengan menjawab setiap Business Quesion
 
 ## 💡 Key Insights
 
--Revenue terkonsentrasi pada sebagian kecil kategori utama.
--Terdapat kategori dengan volume tinggi tetapi kontribusi revenue relatif rendah.
--Pola musiman menunjukkan adanya periode lonjakan penjualan yang signifikan.
--Beberapa kategori memiliki potensi optimasi pricing atau promosi.
+-Tidak ada ketergantungan pada satu region, sehingga risiko geografis relatif rendah.
+-Total pendapatan kategori terutama didorong oleh jumlah produk, bukan performa satu produk.
+-Diskon tidak memberikan dampak signifikan ke jumlah transaksi.
+-Diversifikasi pendapatan yang seimbang antar segmen menunjukkan struktur pelanggan yang stabil.
+-Tidak terdapat indikasi ketergantungan berlebihan pada transaksi bernilai besar; risiko pendapatan relatif terkendali.
+-Pola penggunaan metode pembayaran konsisten di seluruh segmen pelanggan.
 
 ## 🚀 Business Impact
 
-- Fokus strategi dapat diarahkan pada kategori dengan margin dan kontribusi tinggi.
-- Identifikasi kategori lemah membantu dalam perencanaan promosi atau bundling.
-- Insight musiman mendukung perencanaan inventory yang lebih akurat.
-- Dashboard memungkinkan monitoring performa secara berkala.
+🚀 Business Impact
+
+-Diversifikasi regional yang sehat menurunkan risiko geografis dan meningkatkan resiliensi bisnis.
+-Revenue didorong oleh banyak produk, sehingga strategi pertumbuhan lebih efektif melalui ekspansi katalog.
+-Diskon tidak berdampak signifikan terhadap volume, sehingga strategi pricing perlu dievaluasi agar margin tetap optimal.
+-Struktur pelanggan yang seimbang menciptakan pendapatan yang stabil dan tidak bergantung pada satu segmen.
+-Tidak adanya ketergantungan pada transaksi besar membuat cash flow lebih stabil dan risiko revenue shock rendah.
+-Metode pembayaran tidak memengaruhi nilai transaksi, sehingga fokus dapat diarahkan pada efisiensi biaya transaksi.
 
 ## 🛠 Tools & Technologies
 - Microsoft Excel
