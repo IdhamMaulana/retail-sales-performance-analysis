@@ -18,39 +18,19 @@ Tanpa analisis yang tepat, perusahaan berisiko:
 Project ini menjawab beberapa pertanyaan utama:
 
 - Kategori produk mana yang paling berkontribusi terhadap total revenue?
-
 - Bagaimana distribusi penjualan antar segmen pelanggan?
-
 - Apakah terdapat produk atau kategori yang underperform?
-
 - Bagaimana tren penjualan dari waktu ke waktu?
-
 - Strategi apa yang dapat meningkatkan revenue dan efisiensi bisnis?
 
 ## 📊 Data Overview
 
-Dataset berisi data transaksi retail, meliputi:
-
-- Order ID
-
-- Produk & Kategori
-
-- Quantity terjual
-
-- Sales revenue
-
-- Segmen pelanggan
-
-- Tanggal transaksi
+[Dataset](retail sales dataset.xlsx)
 
 Proses data meliputi:
-
 - Data cleaning
-
 - Validasi inkonsistensi data
-
 - Agregasi per kategori dan segmen
-
 - Analisis tren waktu
 
 ## 🔎 Pendekatan Analisis
@@ -58,11 +38,8 @@ Proses data meliputi:
 Langkah analisis dilakukan secara sistematis:
 
 - Exploratory Data Analysis (EDA) untuk memahami pola distribusi data
-
 - Perhitungan KPI utama (Total Revenue, Quantity, Contribution Rate)
-
 - Analisis perbandingan antar kategori & segmen
-
 - Analisis tren penjualan bulanan
 
 
@@ -81,5 +58,4 @@ Langkah analisis dilakukan secara sistematis:
 - Dashboard memungkinkan monitoring performa secara berkala.
 
 ## 🛠 Tools & Technologies
-
-Microsoft Excel
+- Microsoft Excel
