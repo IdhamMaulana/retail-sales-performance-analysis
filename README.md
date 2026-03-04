@@ -17,11 +17,13 @@ Tanpa analisis yang tepat, perusahaan berisiko:
 
 Project ini menjawab beberapa pertanyaan utama:
 
-- Kategori produk mana yang paling berkontribusi terhadap total revenue?
-- Bagaimana distribusi penjualan antar segmen pelanggan?
-- Apakah terdapat produk atau kategori yang underperform?
-- Bagaimana tren penjualan dari waktu ke waktu?
-- Strategi apa yang dapat meningkatkan revenue dan efisiensi bisnis?
+- Region mana yang menghasilkan total revenue tertinggi dan apakah trennya stabil?
+- Kategori produk apa yang benar-benar menjadi penyumbang utama revenue?
+- Apakah diskon benar-benar menguntungkan secara total revenue?
+- Segmen pelanggan mana yang paling bernilai bagi bisnis?
+- Apakah kita terlalu bergantung pada transaksi bernilai besar (outliers)?
+- Metode pembayaran apa yang paling berdampak terhadap nilai transaksi?
+- Kapan waktu penjualan paling tinggi dan paling rendah?
 
 ## 📊 Data Overview
 
